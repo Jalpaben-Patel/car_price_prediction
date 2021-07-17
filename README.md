@@ -1,5 +1,5 @@
-# car_price_prediction
-## Academic Project 
+### car_price_prediction
+### Academic Project 
 ### data source
 I used the dataset on car price prediction, available on
 Kaggle [https://www.kaggle.com/hellbuoy/car-price-prediction].
