@@ -1,4 +1,4 @@
-### car_price_prediction
+### Car price prediction
 ### Academic Project 
 ### data source
 I used the dataset on car price prediction, available on
